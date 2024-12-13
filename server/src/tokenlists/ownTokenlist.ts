@@ -42,5 +42,21 @@ export const ownTokenList = [
 		decimals: 18,
 		address: '0x11cd37bb86f65419713f30673a480ea33c826872',
 		logoURI: 'https://token-icons.llamao.fi/icons/tokens/137/0x11cd37bb86f65419713f30673a480ea33c826872?h=20&w=20'
-	}
+	},
+	{
+    		symbol: "USDC",
+		chainId: 42161,
+		name: "USDC",
+    		decimals": 18,
+		address: "0xd1F5265374A71D9bD949d44f5A9BBF650f93D073",
+		logoURI:  "https://silver-right-junglefowl-370.mypinata.cloud/ipfs/QmV17MDKrb3aCQa2a2SzBZaCeAeAFrpFmqCjn351cWApGS?pinataGatewayToken=kdXpYuBNCFhjbXD_EAuLAqqJQX9-H8sPfjo64AZvdTETjD5hYbq8gy4fk3hmlvyw"
+	  },	
+	  {
+		symbol: "SUSHI",
+		chainId: 42161,
+   		name: "SushiToken",
+                decimals: 18,
+                address: "0x1bc6059b12a452dd9ec0140fdc79140ebf4dbe12",
+		logoURL: "https://silver-right-junglefowl-370.mypinata.cloud/ipfs/QmWxBFEvPbpfdKfMeNK56oVX1iWPJz1bUWAwDQgyNPKnWF?pinataGatewayToken=kdXpYuBNCFhjbXD_EAuLAqqJQX9-H8sPfjo64AZvdTETjD5hYbq8gy4fk3hmlvyw"
+ 	  },
 ];
